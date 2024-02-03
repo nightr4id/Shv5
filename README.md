@@ -3,7 +3,9 @@
  How to Install:
 
 unzip Shv5
+
 chmod +x setup
+
 ./setup [password] [port]
 
 
